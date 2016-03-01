@@ -1,2 +1,2 @@
-integrity-server
+integrity
 ================
